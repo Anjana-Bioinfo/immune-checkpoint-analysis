@@ -1,0 +1,11 @@
+Gene,Expression,Group
+PDCD1,12.5,Tumor
+CTLA4,10.2,Tumor
+CD274,15.1,Tumor
+LAG3,11.4,Tumor
+TIGIT,13.3,Tumor
+PDCD1,6.1,Normal
+CTLA4,5.2,Normal
+CD274,7.0,Normal
+LAG3,5.9,Normal
+TIGIT,6.3,Normal
